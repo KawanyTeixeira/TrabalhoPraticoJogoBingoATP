@@ -35,6 +35,6 @@ O objetivo é implementar um **jogo de Bingo** em C#, aplicando os principais co
 
 ##🚀 Como executar
 1. Clone este repositório:  
-   ```bash
-https://github.com/KawanyTeixeira/TrabalhoPraticoJogoBingoATP.git 
+   ```bash https://github.com/KawanyTeixeira/TrabalhoPraticoJogoBingoATP.git 
+
 
